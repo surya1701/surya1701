@@ -1,4 +1,5 @@
-### Welcome 👋
+### Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 Something about me:
 - 🔭 Undegrad at IIIT Sri City
 - 🌱 A fan of ML and DL
