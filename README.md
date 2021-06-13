@@ -2,7 +2,7 @@
 
 - 🔭 Undegrad at IIIT Sri City
 - 🌱 Avid ML and DL learner
-- 📃 [My Resume](https://surya1701.github.io/)
+<!-- - 📃 [My Resume](https://surya1701.github.io/) -->
 - ✉️ How to reach me: [suryavardan17@gmail.com](mailto:suryavardan17@gmail.com)
 
 <br />
