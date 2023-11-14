@@ -1,7 +1,7 @@
 ### Hi I'm Surya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 Undegrad at IIIT Sri City
-- 🌱 Avid ML and DL learner
+- 🔭 Graduate at New York University
+- 🌱 Budding ML and DS engineer
 <!-- - 📃 [My Resume](https://surya1701.github.io/) -->
 - ✉️ How to reach me: [suryavardan17@gmail.com](mailto:suryavardan17@gmail.com)
 
